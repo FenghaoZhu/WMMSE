@@ -1,6 +1,7 @@
 # WMMSE
 This is the MATLAB code implementation for the WMMSE algorithm.  
 [CLick here for the original paper link](http://ieeexplore.ieee.org/document/5756489/)  
+An Iteratively Weighted MMSE Approach to Distributed Sum-Utility Maximization for a MIMO Interfering Broadcast Channel  
 # Code Introduction
 WMMSE.m : The main function.  
 find_U.m : The function for finding the U in each iteration of the WMMSE algorithm.  
