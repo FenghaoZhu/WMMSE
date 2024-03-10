@@ -10,3 +10,7 @@ sum_rate.m : The function for computing the weighted sum rate.
 # Result  
 Run WMMSE.m in matlab and get the following figure:  
 ![result](result.png)  
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=FenghaoZhu/WMMSE&type=Date)](https://star-history.com/#FenghaoZhu/WMMSE&Date)
